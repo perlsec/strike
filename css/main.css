@@ -1,0 +1,72 @@
+#frame 	{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	border: 2px solid black;
+	padding: 2px;
+	width: 780px;
+	height: 456px;
+}
+	
+#header {
+	position:absolute;
+	top: 10px;
+	left: 10px;
+	border: 2px solid black;
+	padding: 5px;
+	text-align: center;
+	font-size: 22px;	
+	font-weight: bold;
+	color: #166E16;
+}
+
+.button{
+	position:absolute;
+	border: 1px solid black;
+	font-size: 15px;
+	font-weight:bold;
+	text-align:center;
+	line-height: 80px;
+	width: 80px;
+	height: 80px;
+}
+
+#script_label{
+	position: absolute;
+	top: 90px;
+	left: 245px;
+	font-weight: bold;
+}
+#script{
+	position: absolute;
+	top: 110px;
+	left: 245px;
+	border: 1px solid black;
+	padding: 4px;
+}
+#script_long{
+	display: none;
+}
+
+#button1 {
+	top: 80px;
+	left: 10px;
+	background-color: #166E16;
+}
+
+#button2 {
+	top: 80px;
+	left: 110px;
+	background-color: #FF5500;
+	width: 120px;
+}
+
+
+#output {
+	position: absolute;
+	border: 2px solid red;
+	top: 167px;
+	left: 2px;
+	height: 286px;
+	width: 776px;
+}

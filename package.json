@@ -1,0 +1,10 @@
+{
+  "name": "Strike",
+  "version": "0.0.10",
+  "description": "A node server and webui to control another node server. For dev use.",
+  "author": "Kim Jørgensen",
+  "dependencies": {
+      "socket.io": "0.9.x"
+  },
+  "engine": "node >= 0.8.x"
+}
